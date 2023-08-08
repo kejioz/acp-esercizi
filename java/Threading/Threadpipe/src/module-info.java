@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kejioz
+ *
+ */
+module threadpipe {
+}

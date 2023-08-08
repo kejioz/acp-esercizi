@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/kejioz/Folders/Git_repos/shared/code_projects/apache-activemq-5.16.6/activemq-all-5.16.6.jar"
+    ]
+}
